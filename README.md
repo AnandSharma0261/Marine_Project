@@ -102,3 +102,15 @@ Marine/
 ## Deployment
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for free deploy on Render + Vercel + MongoDB Atlas.
+<img width="2864" height="1588" alt="image" src="https://github.com/user-attachments/assets/f3b2a3bd-92d1-4b6a-8b2e-5935013be8a7" />
+<img width="2864" height="1648" alt="image" src="https://github.com/user-attachments/assets/f0c7713f-9435-4e71-9fc8-760082431dd1" />
+<img width="2868" height="1636" alt="image" src="https://github.com/user-attachments/assets/3f3ab172-84cd-4df1-bcfb-e79053e20ca1" />
+<img width="2858" height="1640" alt="image" src="https://github.com/user-attachments/assets/668a9ce2-f5f0-42c9-84fb-7d7f951ceb9c" />
+<img width="2864" height="1644" alt="image" src="https://github.com/user-attachments/assets/afcdef26-02e3-44ba-b2dc-4c973178e671" />
+<img width="2864" height="2300" alt="screencapture-marine-project-tau-vercel-app-2026-05-08-17_29_35" src="https://github.com/user-attachments/assets/e6dc208f-9348-4ac9-82a0-05b5ad7eb3af" />
+
+
+
+
+
+
